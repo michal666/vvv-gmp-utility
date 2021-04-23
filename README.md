@@ -9,7 +9,7 @@ Extend your `vvv-custom.yml` like this:
 ```yml
 utilities:
   gmp:
-    - gmp74
+    - gmp
 
 utility-sources:
   gmp: https://github.com/michal666/vvv-gmp-utility
@@ -21,4 +21,4 @@ For more see the [official VVV documentation on utilities](https://varyingvagran
 
 **GMP**
 
-- `gmp74`
+- `gmp`
